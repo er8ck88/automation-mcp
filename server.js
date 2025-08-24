@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 {
   "name": "automation-mcp",
   "version": "1.0.0",

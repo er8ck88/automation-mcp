@@ -11,7 +11,7 @@ Adicione ao seu `claude_desktop_config.json`:
   "mcpServers": {
     "automation-helper": {
       "command": "npx",
-      "args": ["github:SEU_USUARIO/automation-mcp"]
+      "args": ["github:er8ck88/automation-mcp"]
     }
   }
 }
